@@ -1,0 +1,48 @@
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  background-image: url('../img/corkboardimg.jpg');
+}
+
+
+.container {
+  position: relative;
+}
+
+
+#polaroidFrame {
+  position: absolute;
+}
+
+#bearimg {
+  position: absolute;
+  max-width: 650px;
+  top: 115px;
+  left: 125px;
+}
+
+#pin {
+  position: absolute;
+  max-width: 90px;
+  top: 20px;
+  left: 375px;
+}
+
+#polaroidFrame2 {
+  position: absolute;
+  left: 900px;
+}
+
+#catimg {
+  position: absolute;
+  max-width: 650px;
+  top: 115px;
+  left: 1025px;
+}
+
+#pin2 {
+  position: absolute;
+  max-width: 90px;
+  top: 20px;
+  left: 1300px;
